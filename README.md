@@ -1,4 +1,4 @@
-# Problem 13: Matrix Compression & Low-Rank SVD
+# Matrix Compression & Low-Rank SVD
 
 **Algorithms & Data Structures Examination, Group 3**
 
