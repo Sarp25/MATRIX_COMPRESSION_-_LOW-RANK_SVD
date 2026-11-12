@@ -84,4 +84,4 @@ Run all cells from top to bottom (**Kernel → Restart & Run All**). The unit-te
 
 ## Authors
 
-Group 3: *Sarp Baran Yıldız, Emre Sonkaya, Kerem Temizkan, Hasan Özkarkın *
+Sarp Baran Yıldız, Emre Sonkaya, Kerem Temizkan, Hasan Özkarkın
